@@ -6,7 +6,7 @@
 
 **Issue:** https://github.com/phpmyadmin/phpmyadmin/issues/18974
 
-**Status:** Phase II
+**Status:** Phase I Complete
 
 ---
 
