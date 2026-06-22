@@ -130,7 +130,7 @@ Using UMPIRE framework (adapted):
 
 **PR Description:** The PR explains the two fixes: the sessionStorage type mismatch that prevented tree state restoration, and the `skipTreeAnimation` parameter that prevents the tree from replaying its opening animation during restoration.
 
-**Status:** Awaiting review
+**Status:** Merged
 
 ---
 
